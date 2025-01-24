@@ -21,7 +21,7 @@
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "id_photo.jpg"
   name             : "Zikun Tan"
   pronouns         : # "he/him"  
   bio              : "PhD student in Ben-Gurion University of the Negev"
