@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 # locale                   : "en-US"
-# title                    : "Your Name / Site Title"
+title                    : "Bio"
 # title_separator          : "-"
 # name                     : &name "Your Name"
 # description              : &description "personal description"
@@ -23,22 +23,23 @@ author:
   # Biographic information
   avatar           : "id_photo.jpg"
   name             : "Zikun Tan"
-  pronouns         : # "he/him"  
-  # bio              : "PhD student in Ben-Gurion University of the Negev"
+  # pronouns         : # "he/him"  
+  bio              : " "
   # location         : "Be'er Sheva, Israel"
   employer         : # "Ben-Gurion University of the Negev"
   uri              : # URL
-  email            : "tanziku@post.bgu.ac.il" 
+  email            : "tanziku@post.bgu.ac.il"
+  cv               : "personal_curriculum_vitae_zikuntan_jan202024.pdf"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  linkedin         : "www.linkedin.com/in/zikun-tan-225806151"
-  googlescholar    : "https://scholar.google.com/citations?user=smHJO2MAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Zikun-Tan"
-  ieeexplore       : "https://ieeexplore.ieee.org/author/37088970671"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8969-7622"
-  github           : "https://github.com/ZikunTan"
-  twitter          : ZikunTan # "https://x.com/ZikunTan"
+  # linkedin         : "www.linkedin.com/in/zikun-tan-225806151"
+  # googlescholar    : "https://scholar.google.com/citations?user=smHJO2MAAAAJ&hl=en"
+  # researchgate     : "https://www.researchgate.net/profile/Zikun-Tan"
+  # ieeexplore       : "https://ieeexplore.ieee.org/author/37088970671"
+  # orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8969-7622"
+  # github           : "https://github.com/ZikunTan"
+  # twitter          : ZikunTan # "https://x.com/ZikunTan"
   impactstory      : # URL
   # orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8969-7622"
   # semantic         : # URL
