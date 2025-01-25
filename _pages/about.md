@@ -11,7 +11,7 @@ I am currently a PhD student in [Prof. Ron Dabora's](https://www.ee.bgu.ac.il/~d
 
 Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and Electronic Engineering, and MS Electrical Engineering from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), [University of Liverpool](https://www.liverpool.ac.uk/), and [Northwestern University](https://www.northwestern.edu/), respectively.
 
-[Email](mailto:tanziku@post.bgu.ac.il) / [CV](files/personal_curriculum_vitae_zikuntan_jan202024.pdf) / [LinkedIn](www.linkedin.com/in/zikun-tan-225806151) / [Google Scholar](https://scholar.google.com/citations?user=smHJO2MAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Zikun-Tan) / [IEEE Xplore](https://ieeexplore.ieee.org/author/37088970671) / [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-8969-7622) / [GitHub](https://github.com/ZikunTan)
+[Email](mailto:tanziku@post.bgu.ac.il) / [CV](files/Personal Curriculum Vitae - Zikun Tan - 20012024.pdf) / [LinkedIn](www.linkedin.com/in/zikun-tan-225806151) / [Google Scholar](https://scholar.google.com/citations?user=smHJO2MAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Zikun-Tan) / [IEEE Xplore](https://ieeexplore.ieee.org/author/37088970671) / [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-8969-7622) / [GitHub](https://github.com/ZikunTan)
 
 Publications
 ======
@@ -21,4 +21,9 @@ Publications
 
 - *Conference Papers*
 ======
-[C1] <u>Z. Tan</u>, R. Dabora and H. V. Poor, "**On the Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory**", Proceedings of the IEEE International Symposium on Information Theory (ISIT 2024), July 2024, Athens, Greece. [IEEE Xplore](https://ieeexplore.ieee.org/document/10619113) / [arXiv](https://arxiv.org/abs/2405.11405) / [Presentation Slides](https://github.com/ZikunTan/zikuntan.github.io/blob/master/files/IEEE%20ISIT%202024%20Presentation%20Slides.pdf)
+[C1] <u>Z. Tan</u>, R. Dabora and H. V. Poor, "**On the Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory**", Proceedings of the IEEE International Symposium on Information Theory (ISIT 2024), July 2024, Athens, Greece. [IEEE Xplore](https://ieeexplore.ieee.org/document/10619113) / [arXiv](https://arxiv.org/abs/2405.11405) / [Presentation Slides](files/IEEE ISIT 2024 Presentation Slides.pdf)
+
+- *Others*
+======
+PhD Progress Reports: [1](files/PhD Progress Report - Apr. 2023 ~ Jun. 2024.pdf)
+PhD Candidacy Exam: [Research Proposal](files/PhD Research Proposal_Zikun Tan_850058454.pdf), [Presentation Slides](files/PhD Candidacy Exam Slides_Zikun Tan_850058454.pdf)
