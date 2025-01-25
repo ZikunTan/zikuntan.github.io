@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Biography
-======
 I am currently a PhD student in [Prof. Ron Dabora's](https://www.ee.bgu.ac.il/~daborona/) group in the [Department of Electrical and Computer Engineering](https://in.bgu.ac.il/en/engn/ece/Pages/default.aspx), [Ben-Gurion University of the Negev](https://www.bgu.ac.il/en/), Be'er Sheva, Israel. My research interests include wireless communications, signal processing, information theory and machine learning.
 
 Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and Electronic Engineering, and MS Electrical Engineering from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), [University of Liverpool](https://www.liverpool.ac.uk/), and [Northwestern University](https://www.northwestern.edu/), respectively.
@@ -16,10 +15,10 @@ Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and 
 
 Publications
 ======
-*Submissions*
+- *Submissions*
 ======
-[S1] <ins>Z. Tan<ins>, R. Dabora and H. V. Poor, "**The Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory and with Bounded Processing Delay**", submitted to the IEEE International Symposium on Information Theory (ISIT 2025).
+[S1]  <u>Z. Tan</u>, R. Dabora and H. V. Poor, "**The Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory and with Bounded Processing Delay**", submitted to the IEEE International Symposium on Information Theory (ISIT 2025).
 
-*Conference Papers*
+- *Conference Papers*
 ======
-[C1] <ins>Z. Tan<ins>, R. Dabora and H. V. Poor, "**On the Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory**", Proceedings of the IEEE International Symposium on Information Theory (ISIT 2024), July 2024, Athens, Greece. [IEEE Xplore](https://ieeexplore.ieee.org/document/10619113) / [arXiv](https://arxiv.org/abs/2405.11405) / [Presentation Slides]
+[C1] <u>Z. Tan</u>, R. Dabora and H. V. Poor, "**On the Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory**", Proceedings of the IEEE International Symposium on Information Theory (ISIT 2024), July 2024, Athens, Greece. [IEEE Xplore](https://ieeexplore.ieee.org/document/10619113) / [arXiv](https://arxiv.org/abs/2405.11405) / [Presentation Slides](https://github.com/ZikunTan/zikuntan.github.io/blob/master/files/IEEE%20ISIT%202024%20Presentation%20Slides.pdf)
