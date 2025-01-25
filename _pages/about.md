@@ -11,4 +11,4 @@ I am currently a PhD student in [Prof. Ron Dabora's](https://www.ee.bgu.ac.il/~d
 
 Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and Electronic Engineering, and MS Electrical Engineering from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), [University of Liverpool](https://www.liverpool.ac.uk/), and [Northwestern University](https://www.northwestern.edu/), respectively.
 
-[Email](tanziku@post.bgu.ac.il)
+[Email](tanziku@post.bgu.ac.il)/[CV](files/personal_curriculum_vitae_zikuntan_jan202024.pdf)
