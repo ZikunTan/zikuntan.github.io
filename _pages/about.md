@@ -22,4 +22,5 @@ Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and 
 
 - <h2>Others</h2>
 PhD Progress Reports: [Apr. 2023 ~ Jun. 2024](files/PhD Progress Report - Apr. 2023 ~ Jun. 2024.pdf) \
-PhD Candidacy Exam: [Research Proposal](files/PhD Research Proposal_Zikun Tan_850058454.pdf), [Presentation Slides](files/PhD Candidacy Exam Slides_Zikun Tan_850058454.pdf)
+PhD Candidacy Exam: [Research Proposal](files/PhD Research Proposal_Zikun Tan_850058454.pdf), [Presentation Slides](files/PhD Candidacy Exam Slides_Zikun Tan_850058454.pdf) \
+MS Project Report: [PDF](files/MS Project Report_Zikun Tan_3181702.pdf)
