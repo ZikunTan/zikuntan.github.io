@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+body {
+  font-size: 16px;
+}
 
 <h1>Biography</h1>
 
