@@ -14,6 +14,7 @@ Previously, I obtained BEng Telecommunications Engineering, BEng Electrical and 
 [Email](mailto:tanziku@post.bgu.ac.il) / [CV](files/Personal Curriculum Vitae - Zikun Tan - 20012024.pdf) / [LinkedIn](www.linkedin.com/in/zikun-tan-225806151) / [Google Scholar](https://scholar.google.com/citations?user=smHJO2MAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Zikun-Tan) / [IEEE Xplore](https://ieeexplore.ieee.org/author/37088970671) / [ORCID](https://orcid.org/my-orcid?orcid=0009-0000-8969-7622) / [GitHub](https://github.com/ZikunTan)
 
 Publications
+======
 - *<h2>Submissions</h2>*
 [S1]  <u>Z. Tan</u>, R. Dabora and H. V. Poor, "**The Rate-Distortion Function for Sampled Cyclostationary Gaussian Processes with Memory and with Bounded Processing Delay**", submitted to the IEEE International Symposium on Information Theory (ISIT 2025).
 
