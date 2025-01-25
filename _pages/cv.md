@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/personal_curriculum_vitae_zikuntan.pdf
 author_profile: true
 redirect_from:
   - /resume
