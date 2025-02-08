@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv/ /files/Personal Curriculum Vitae - Zikun Tan - 20012024.pdf
     
   - title: "Publications"
     url: /publications/
