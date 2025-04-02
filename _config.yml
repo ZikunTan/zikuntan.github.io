@@ -22,10 +22,10 @@ title                    : "About me - Homepage"
 author:
   # Biographic information
   avatar           : "id_photo.jpg"
-  # name             : "Zikun Tan"
+  name             : "Zikun Tan"
   # pronouns         : # "he/him"  
   bio              : " "
-  # location         : "Be'er Sheva, Israel"
+  location         : "Be'er Sheva, Israel"
   employer         : # "Ben-Gurion University of the Negev"
   uri              : # URL
   # email            : "tanziku@post.bgu.ac.il"
