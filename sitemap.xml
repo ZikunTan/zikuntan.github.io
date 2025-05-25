@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://zikuntan.github.io/</loc>
+  <lastmod>2025-05-11T13:41:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://zikuntan.github.io/images/phd_research_proposal_zikuntan_850058454.pdf</loc>
+  <lastmod>2025-05-11T13:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zikuntan.github.io/images/phd_candidacy%20exam_slides_zikuntan_850058454.pdf</loc>
+  <lastmod>2025-05-11T13:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zikuntan.github.io/images/cv_zikuntan.pdf</loc>
+  <lastmod>2025-05-11T13:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zikuntan.github.io/images/ieee_isit_2024_slides.pdf</loc>
+  <lastmod>2025-05-11T13:41:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
